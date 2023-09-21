@@ -1,6 +1,6 @@
 import { BadgeCheckIcon, ChipIcon } from "@heroicons/react/solid";
 import React, { useEffect } from "react";
-import anime from "animejs"; // Importa la libreria animejs
+import anime from "animejs"; 
 import { skills } from "../data";
 
 export default function Skills() {
