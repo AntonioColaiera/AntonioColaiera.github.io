@@ -18,6 +18,8 @@ export default function Projects() {
             <a
               href={project.link}
               key={project.image}
+              target="_blank"
+              rel="noopener noreferrer"
               className="sm:w-1/2 w-full p-4"
             >
               <div className="flex relative">
@@ -34,9 +36,19 @@ export default function Projects() {
                     {project.title}
                   </h1>
                   <div>
-                    <p className="leading-relaxed text-sm sm:text-xs">
+                  <p className="leading-relaxed text-sm sm:text-xs mb-8">
                       {project.description}
                     </p>
+                    {project.demo && (
+                      <a
+                        href={project.demo}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-blue-400 hover:underline"
+                      >
+                        DEMO
+                      </a>
+                    )}
                   </div>
                 </div>
               </div>

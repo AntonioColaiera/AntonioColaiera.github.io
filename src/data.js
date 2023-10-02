@@ -1,4 +1,14 @@
 export const projects = [
+
+  {
+    title: "VulitivibeniART",
+    subtitle: "Sito web",
+    description: "Questo è sito web che utilizza REACT e Bootstrap.",
+    image: "./vulitivibeniart.gif",
+    link: "https://github.com/AntonioColaiera/Art-Website",
+    demo: "https://vulitivibeniart.netlify.app/"
+  },
+
   {
     title: "Full-Stack-E-commerce-Cigar-and-Whiskey",
     subtitle: "Sito web con Database",
