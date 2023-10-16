@@ -28,9 +28,9 @@ export default function About() {
                   x
                 </button>
                 <div className="dialog-content">
-                  <h1 className="text-xl font-bold mb-2">Salve 😄! </h1>
-                  <p>Sono un Full Stack Web Developer, a cui piace molto la parte Back-End, sono versatile e 
-                    appassionato, per intrapendere questa professione ho dato tutto me stesso. </p>
+                  <h1 className="text-xl font-bold mb-2">Hello 😄! </h1>
+                  <p>I'm a full stack web developer, who really likes the backend part, I'm versatile and
+                    passionate, I gave my all to undertake this profession.</p>
                 </div>
               </div>
             )}

@@ -2,8 +2,8 @@ export const projects = [
 
   {
     title: "VulitivibeniART",
-    subtitle: "Sito web",
-    description: "Questo è sito web che utilizza REACT e Bootstrap.",
+    subtitle: "Website",
+    description: "This is website using REACT and Bootstrap.",
     image: "./vulitivibeniart.gif",
     link: "https://github.com/AntonioColaiera/Art-Website",
     demo: "https://vulitivibeniart.netlify.app/"
@@ -11,16 +11,16 @@ export const projects = [
 
   {
     title: "Full-Stack-E-commerce-Cigar-and-Whiskey",
-    subtitle: "Sito web con Database",
-    description: "Questo sito web utilizza REACT, MySQL, SPRING BOOT e un'API REST, dispone di un carello per gli acquisti disponibile e aggiornato in tutte le pagine.",
+    subtitle: "Website with Database",
+    description: "This website uses REACT, MySQL, SPRING BOOT and a REST API, has a shopping cart available and updated on all pages.",
     image: "./E-commerce.gif",
     link: "https://github.com/AntonioColaiera/Full-Stack-E-commerce-Cigar-and-Whiskey",
   },
 
   {
     title: "Castelli di Calabria",
-    subtitle: "Sito web con Database",
-    description: "Questo sito web REACT usa le operazioni CRUD per recuperare informazioni da un Database MySQL attraverso SPRING BOOT e un'API REST.",
+    subtitle: "Website with Database",
+    description: "This REACT website uses CRUD operations to retrieve information from a MySQL Database through SPRING BOOT and a REST API.",
     image: "./CastelliCalabria.gif",
     link: "https://github.com/AntonioColaiera/Personal-Project-Castles-of-Calabria-WebSite",
   }

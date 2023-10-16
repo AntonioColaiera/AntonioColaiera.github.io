@@ -8,7 +8,7 @@ export default function Contact() {
         <div className="flex flex-col w-full mb-10 ">
           <InformationCircleIcon className="mx-auto inline-block w-10 mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-black mb-1">
-            Contatti
+            Contacts
           </h1>
         </div>
         <div className="flex items-center justify-center gap-8">

@@ -8,7 +8,7 @@ export default function Navbar() {
       <div className='container mx-auto flex flex-wrap p-3 flex-col md:flex-row items-center justify-center border-2 border-black'>
         <div className='flex items-center mr-3'>
           <a
-            href='https://www.linkedin.com/in/antonio-colaierà'
+            href='https://www.linkedin.com/in/antonio-colaier%C3%A0/?locale=en_US'
             className='mr-2'
             target='_blank'
             rel='noopener noreferrer'
@@ -31,16 +31,16 @@ export default function Navbar() {
             Skills
           </a>
           <a href='Progetti.js#progetti' className='mr-3 hover:text-white'>
-            Progetti
+            Projects
           </a>
           <a
             href='Certificazion.js#certificazioni'
             className='mr-3 hover:text-white'
           >
-            Certificazioni
+            Certificazions
           </a>
           <a href='Contact.js#contatti' className='hover:text-white'>
-            Contatti
+            Contacts
           </a>
           <div className='ml-4 '>
             <Theme />
