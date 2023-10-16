@@ -37,7 +37,7 @@ export default function Navbar() {
             href='Certificazion.js#certificazioni'
             className='mr-3 hover:text-white'
           >
-            Certificazions
+            Certifications
           </a>
           <a href='Contact.js#contatti' className='hover:text-white'>
             Contacts
